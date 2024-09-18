@@ -15,7 +15,7 @@ This repository contains a PHP class that facilitates secure session management 
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-repo/php-secure-session-manager.git
+   git clone https://github.com/Dev-AminMohebbi/SessionManager.git
    ```
 
 2. Include the class in your project:
