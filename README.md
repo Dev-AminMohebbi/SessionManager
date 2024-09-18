@@ -148,4 +148,4 @@ if ($payload) {
 
 ## License
 
-This project is licensed under the MIT License. Feel free to use and modify the code as needed.
+This project is open-source under the MIT License. You are welcome to use, modify, and distribute the code freely, provided that proper credit is given to the original author. Contributions and improvements are always appreciated.
